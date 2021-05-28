@@ -4,6 +4,7 @@
 
 ## 💻 Tecnologias
 * Vue JS
+* Vue Test Utils
 * Jest
 * Node
 * JavaScript
